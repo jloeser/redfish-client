@@ -1,0 +1,3 @@
+[submodule "src/redfishCLI/python-redfish"]
+	path = src/redfishCLI/python-redfish
+	url = https://github.com/devananda/python-redfish
